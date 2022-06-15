@@ -5,5 +5,6 @@
 https://challenge.xfyun.cn/topic/info?type=telecom-customer&ch=ds22-dw-zs03-dl
 
 ### 2. 实验环境
-+ PyTorch
++ sklearn
++ PyTorch（待定）
 + AutoML（待定）
