@@ -3,8 +3,8 @@ This Repo is used for data science competition codes.
 
 ## Catalog
 
-| Name                                                             | Link                                                                          |
-|------------------------------------------------------------------|-------------------------------------------------------------------------------|
-| 科大讯飞xDatawhale举办的 2022iFLYTEK A.I. 电信客户流失预测挑战赛 | https://github.com/Matrixmax/Data_Science_Competition/tree/main/iFLYTEKAI2022 |
-|                                                                  |                                                                               |
-|                                                                  |                                                                               |
+| Index | Name                                                       | Link                                                                          |
+|-------|------------------------------------------------------------|-------------------------------------------------------------------------------|
+| 1     | 科大讯飞xDatawhale 2022iFLYTEK A.I. 电信客户流失预测挑战赛 | https://github.com/Matrixmax/Data_Science_Competition/tree/main/iFLYTEKAI2022 |
+|       |                                                            |                                                                               |
+|       |                                                            |                                                                               |
