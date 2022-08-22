@@ -1,0 +1,54 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|██████████████████████████████████████████████████████████████████████████████████| 26/26 [01:23<00:00,  3.20s/it]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+100%|██████████████████████████████████████████████████████████████████████████████████| 20/20 [01:03<00:00,  3.19s/it]
+Mem. usage decreased to 1311.87 Mb (76.1% reduction)
+Traceback (most recent call last):
+  File "/home/wxl/Data_Science_Competition/huaweiAI2022_CTR/baseline_v2.py", line 151, in <module>
+    cat_train, cat_test = cv_model(CatBoostClassifier, x_train, y_train, x_test, "cat")
+  File "/home/wxl/Data_Science_Competition/huaweiAI2022_CTR/baseline_v2.py", line 121, in cv_model
+    for i, (train_index, valid_index) in enumerate(kf.split(train_x, train_y)):
+  File "/home/wxl/anaconda3/lib/python3.7/site-packages/sklearn/model_selection/_split.py", line 333, in split
+    .format(self.n_splits, n_samples))
+ValueError: Cannot have number of splits n_splits=5 greater than the number of samples: n_samples=0.

@@ -1,0 +1,24 @@
+{
+    "os": "Linux-4.15.0-65-generic-x86_64-with-debian-buster-sid",
+    "python": "3.7.6",
+    "heartbeatAt": "2022-08-22T12:34:53.797613",
+    "startedAt": "2022-08-22T12:34:47.750851",
+    "docker": null,
+    "gpu": "GeForce GTX 1080 Ti",
+    "gpu_count": 2,
+    "cpu_count": 20,
+    "cuda": "10.1.105",
+    "args": [],
+    "state": "running",
+    "program": "/home/wxl/Data_Science_Competition/huaweiAI2022_CTR/baseline_v2.py",
+    "codePath": "huaweiAI2022_CTR/baseline_v2.py",
+    "git": {
+        "remote": "https://github.com/Matrixmax/Data_Science_Competition.git",
+        "commit": "5fc968753b3fe0a74097405de9344b93ab483f38"
+    },
+    "email": null,
+    "root": "/home/wxl/Data_Science_Competition",
+    "host": "dbsi-409",
+    "username": "wxl",
+    "executable": "/home/wxl/anaconda3/bin/python"
+}
